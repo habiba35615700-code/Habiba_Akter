@@ -16,7 +16,7 @@ I specialize in building *Premium Single-Product Stores* and *High-Converting Sh
 
 ### 🛠️ Tech Stack:
 - *Platform:* Shopify
-- *Languages:* HTML5, CSS3, Python (for automation/logic)
+- *Languages:* HTML5, CSS3. 
 - *Design Tools:* AI-driven image design and Professional Branding tools
 
 ---
